@@ -21,6 +21,6 @@ const drill = (image) => {
     }
   } */
 };
-console.log("oy");
+console.log();
 console.log(drill(input));
 console.log("**END**");
